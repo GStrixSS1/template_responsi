@@ -111,3 +111,4 @@ class CharacterController extends GetxController {
     fetchCharacters();
   }
 }
+

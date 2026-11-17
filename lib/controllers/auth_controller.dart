@@ -213,3 +213,4 @@ class AuthController extends GetxController {
     Get.offAll(() => const LoginView());
   }
 }
+

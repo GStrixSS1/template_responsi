@@ -352,3 +352,4 @@ class CharacterListView extends StatelessWidget {
     );
   }
 }
+

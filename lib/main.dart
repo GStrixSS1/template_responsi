@@ -87,3 +87,4 @@ class RickAndMortyApp extends StatelessWidget {
     );
   }
 }
+

@@ -47,3 +47,4 @@ class EpisodeController extends GetxController {
     }
   }
 }
+

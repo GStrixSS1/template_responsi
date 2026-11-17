@@ -315,3 +315,4 @@ class CharacterDetailView extends StatelessWidget {
     );
   }
 }
+

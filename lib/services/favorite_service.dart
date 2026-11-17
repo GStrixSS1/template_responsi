@@ -84,3 +84,4 @@ class FavoriteService {
     return list.any((c) => c.id == characterId);
   }
 }
+

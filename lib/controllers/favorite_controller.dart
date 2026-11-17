@@ -130,3 +130,4 @@ class FavoriteController extends GetxController {
     );
   }
 }
+
